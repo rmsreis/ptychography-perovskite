@@ -12,13 +12,15 @@ This is repository containing the analysis of ptychographic datasets used to dir
 
   Recently, halide-based perovskites have drawn substantial interest as promising materials for high-efficiency solar energy harvesting due to their excellent optoelectronic properties, low-cost, and material accessibility.
 
-  Most of the structural characterization studies in halide perovskites have been performed using X-ray or neutron diffraction.8–12,16,17 Unfortunately, these techniques offer a limited spatial resolution and low sensitivity to small symmetry deviations, such as the absence of center of symmetry and effects due to small atomic shifts.
+  Most of the structural characterization studies in halide perovskites have been performed using X-ray or neutron diffraction. Unfortunately, these techniques offer a limited spatial resolution and low sensitivity to small symmetry deviations, such as the absence of center of symmetry and effects due to small atomic shifts.
 
-  For atomic resolution low dose imaging, we use electron ptychography, which is known for providing a quantitative measure of the phase changes of the incident coherent electron wave as it propagates through an electron transparent specimen.34 This technique offers a highly efficient phase contrast transfer function and excellent image contrast of light elements under low dose imaging conditions.
+  For atomic resolution low dose imaging, we use electron ptychography, which is known for providing a quantitative measure of the phase changes of the incident coherent electron wave as it propagates through an electron transparent specimen. This technique offers a highly efficient phase contrast transfer function and excellent image contrast of light elements under low dose imaging conditions.
 
 #### Ptychography: 
 
 Ptychography is a computational imaging technique. A detector records an extensive data set consisting of many inference patterns obtained as an object is displaced to various positions relative to an illumination field. A computer algorithm of some type is then used to invert these data into an image. 
+
+
 
 
 ### Experimental Dataset:
