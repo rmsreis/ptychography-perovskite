@@ -27,6 +27,8 @@ Ptychography is a computational imaging technique. A detector records an extensi
 -----------------
 
 
+The final reconstruction should look similar to this ![Image description](Images/ptycho-rec-01.png)
+
 **In case of usage of the dataset or code in this repository please cite the following paper:
 
 "Determination of the structural phase and octahedral rotation angle in halide perovskites"
