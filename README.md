@@ -16,6 +16,10 @@ Most of the structural characterization studies in halide perovskites have been 
 
 For atomic resolution low dose imaging, we use electron ptychography, which is known for providing a quantitative measure of the phase changes of the incident coherent electron wave as it propagates through an electron transparent specimen.34 This technique offers a highly efficient phase contrast transfer function and excellent image contrast of light elements under low dose imaging conditions.
 
+  - Ptychography: 
+
+Ptychography is a computational imaging technique. A detector records an extensive data set consisting of many inference patterns obtained as an object is displaced to various positions relative to an illumination field. A computer algorithm of some type is then used to invert these data into an image. 
+
 ### Experimental Dataset:
 -----------------
 
