@@ -22,6 +22,13 @@ This is repository containing the analysis of ptychographic datasets used to dir
 
 Ptychography is a computational imaging technique. A detector records an extensive data set consisting of many inference patterns obtained as an object is displaced to various positions relative to an illumination field. A computer algorithm of some type is then used to invert these data into an image. 
 
+For a very detailed review on ptychography I recommend the following paper:
+
+Rodenburg, John M. 
+
+"Ptychography and related diffractive imaging methods." 
+
+Advances in imaging and electron physics 150 (2008): 87-184.
 
 ### Experimental Dataset:
 -----------------
