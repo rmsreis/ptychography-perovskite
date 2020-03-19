@@ -26,7 +26,7 @@ For a very detailed review on ptychography I recommend the following paper:
 
 Rodenburg, John M. 
 
-"Ptychography and related diffractive imaging methods." 
+<i>"Ptychography and related diffractive imaging methods."</i> 
 
 Advances in imaging and electron physics 150 (2008): 87-184.
 
