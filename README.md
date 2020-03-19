@@ -22,9 +22,16 @@ This is repository containing the analysis of ptychographic datasets used to dir
 
 Ptychography is a computational imaging technique. A detector records an extensive data set consisting of many inference patterns obtained as an object is displaced to various positions relative to an illumination field. A computer algorithm of some type is then used to invert these data into an image. 
 
+**STEM Ptychography:**
+
+![Image description](Images/schema-01.png)
+
+Schematic representation of the diffraction orders and phase relationships in the STEM ptychograph. (a) Two diffracted disks lying in the Fraunhofer diffraction plane (the right-hand side of Fig. 1). (b) Phase relationship of the underlying amplitudes of these two disks. The square roots of the measured intensities give the lengths of the arrows, but not their phase. However, the triangle of complex numbers must be closed, although there are two indistinguishable solutions. (c) For three linearly positioned interfering disks. (d) For 2D functions, ambiguity in this phase problem (as in all Fourier phase problems) is reduced because the ratio of measurements to unknowns increases.
+
+
 For a very detailed review on ptychography I recommend the following paper:
 
-Rodenburg, John M. <i>"Ptychography and related diffractive imaging methods."</i> Advances in imaging and electron physics 150 (2008): 87-184.
+[1] Rodenburg, John M. <i>"Ptychography and related diffractive imaging methods."</i> Advances in imaging and electron physics 150 (2008): 87-184.
 
 ### Experimental Dataset:
 -----------------
