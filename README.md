@@ -24,11 +24,7 @@ Ptychography is a computational imaging technique. A detector records an extensi
 
 For a very detailed review on ptychography I recommend the following paper:
 
-Rodenburg, John M. 
-
-<i>"Ptychography and related diffractive imaging methods."</i> 
-
-Advances in imaging and electron physics 150 (2008): 87-184.
+Rodenburg, John M. <i>"Ptychography and related diffractive imaging methods."</i> Advances in imaging and electron physics 150 (2008): 87-184.
 
 ### Experimental Dataset:
 -----------------
@@ -45,7 +41,6 @@ The final reconstruction should look similar to this ![Image description](Images
 Appl. Phys. Lett. 112, 071901 (2018); https://doi.org/10.1063/1.5017537
 
   
-
 ----------------
 
 <b>Contact:</b>
