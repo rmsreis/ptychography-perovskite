@@ -1,4 +1,4 @@
-### Ptychography reconstruction using WDD method
+### Ptychography reconstruction
 ---------------
 
 A key to the unique combination of electronic and optical properties in halide perovskite materials lies in their rich structural complexity. However, their radiation sensitive nature limits nanoscale structural characterization requiring dose efficient microscopic techniques in order to determine their structures precisely. 
