@@ -10,6 +10,8 @@ This is repository containing the analysis of ptychographic datasets used to dir
 ### Background:
 -----------------
 
+#### Halide Perovskites
+
   Recently, halide-based perovskites have drawn substantial interest as promising materials for high-efficiency solar energy harvesting due to their excellent optoelectronic properties, low-cost, and material accessibility.
 
   Most of the structural characterization studies in halide perovskites have been performed using X-ray or neutron diffraction. Unfortunately, these techniques offer a limited spatial resolution and low sensitivity to small symmetry deviations, such as the absence of center of symmetry and effects due to small atomic shifts.
