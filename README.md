@@ -21,11 +21,11 @@ This is repository containing the analysis of ptychographic datasets used to dir
 Ptychography is a computational imaging technique. A detector records an extensive data set consisting of many inference patterns obtained as an object is displaced to various positions relative to an illumination field. A computer algorithm of some type is then used to invert these data into an image. 
 
 
-
-
 ### Experimental Dataset:
 -----------------
+Electron diffraction patterns at each probe position were recorded at room-temperature (≈300 K) using a Gatan K2 IS direct electron detector operated at 800 frames per second in STEM operated at 300kV with a convergence semi-angle of 17.2 mrad. 
 
+The camera acquisition and probe scanning were synchronized using a Gatan Digiscan and STEMx software package. The simultaneous annular dark field (ADF) image was acquired with collection angles of 40–240mrad. The probe was scanned over 256 × 256 probe positions to create a 256 × 256 x 1920 × 895 four-dimensional (4D) dataset, namely, 4D-STEM. 
 
 The final reconstruction should look similar to this ![Image description](Images/ptycho-rec-01.png)
 
